@@ -1,0 +1,33 @@
+命令稿啟動於 2016年05月30日 (週一) 21時49分36秒
+]0;chenchihyu@chenchihyu-VirtualBox: ~/lab7chenchihyu@chenchihyu-VirtualBox:~/lab7$ make
+g++ tetris.o genMino.o Mino.o MinoI.o MinoL.o MinoO.o MinoS.o MinoT.o -std=c++11 -o lab7
+]0;chenchihyu@chenchihyu-VirtualBox: ~/lab7chenchihyu@chenchihyu-VirtualBox:~/lab7$ ./lab7
+0010
+0010
+0010
+0010
+0000
+0000
+0011
+0110
+0000
+0100
+0100
+0110
+]0;chenchihyu@chenchihyu-VirtualBox: ~/lab7chenchihyu@chenchihyu-VirtualBox:~/lab7$ ./lab7
+0000
+0100
+0100
+0110
+0000
+0100
+0100
+0110
+0000
+0000
+0011
+0110
+]0;chenchihyu@chenchihyu-VirtualBox: ~/lab7chenchihyu@chenchihyu-VirtualBox:~/lab7$ exit
+
+命令稿已於 2016年05月30日 (週一) 21時50分01秒
+ 完成
